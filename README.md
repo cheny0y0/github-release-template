@@ -22,7 +22,7 @@ print("code with Python.")
 # New line
 \```
 ---
-[![latestrelease](https://img.shields.io/github/v/release/cheny0y0/github-release-template.svg) GMT yyyy/M/d H:mm Verified](https://github.com/144881-Studios/physics-engine/releases)
+[![latestrelease](https://img.shields.io/github/v/release/cheny0y0/github-release-template.svg) GMT yyyy/M/d H:mm Verified](https://github.com/cheny0y0/github-release-template/releases)
 ```
 # Welcome to github-release-template!
 ---
@@ -47,4 +47,4 @@ print("code with Python.")
 # New line
 ```
 ---
-[![latestrelease](https://img.shields.io/github/v/release/cheny0y0/github-release-template.svg) GMT yyyy/M/d H:mm Verified](https://github.com/144881-Studios/physics-engine/releases)
+[![latestrelease](https://img.shields.io/github/v/release/cheny0y0/github-release-template.svg) GMT yyyy/M/d H:mm Verified](https://github.com/cheny0y0/github-release-template/releases)
